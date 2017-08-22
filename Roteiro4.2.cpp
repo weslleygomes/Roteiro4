@@ -16,10 +16,10 @@ int main(){
 		system("cls");
 		
 		if(n > THEMYSTERIOSNUMBER){
-			cout << "Numero maior que o SECRETO! "<< "\n Tente Again!  " << c << endl;
+			cout << "Numero maior que o SECRETO! "<< "\n Tente Novamente!  " << c << endl;
 			c++;
 		}else{
-			cout << "Numero menor que o SECRETO! "<< "\n Tente Again!  " << c << endl;
+			cout << "Numero menor que o SECRETO! "<< "\n Tente Novamente!  " << c << endl;
 			c++;
 		}
 		
